@@ -36,7 +36,7 @@ df.head()
 ```
 
 ### 3️.Jalankan Sel Satu Per Satu  
-- Klik ▶️ (**Run**) pada setiap sel kode dari atas ke bawah.  
+- Klik ▶ (**Run**) pada setiap sel kode dari atas ke bawah.  
 - Pastikan tidak ada error sebelum menjalankan sel berikutnya.  
 
 ### 4️. Install Dependensi (Jika Diperlukan)  
