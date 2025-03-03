@@ -25,7 +25,7 @@ Proyek ini bertujuan untuk mengimplementasikan konsep kecerdasan buatan (AI) dal
 
 ### 2️. Unggah Dataset (Jika Ada)  
 Jika menggunakan dataset dalam file CSV, unggah dengan cara:  
-- Klik ikon 📎 (**Upload**) di sebelah kiri.  
+- Klik (**Upload**) di sebelah kiri.  
 - Pilih file CSV yang ingin digunakan.  
 - Gunakan kode berikut untuk membaca dataset:  
 
